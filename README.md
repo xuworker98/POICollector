@@ -12,6 +12,8 @@ A desktop GIS data tool for telecom planning, RF optimization, network construct
 
 ## ✨ 主要功能及特点 / Features
 
+![POICollector V2.0 周边搜索界面](assets/screenshots/POICollector_周边搜索_V2.0.png)
+
 ### 查询与数据处理 / Query and Data Processing
 
 | 功能 Feature | 说明 Description |
@@ -49,6 +51,15 @@ A desktop GIS data tool for telecom planning, RF optimization, network construct
 ---
 
 ## 🚀 快速开始 / Quick Start
+
+### 下载程序 / Download
+
+不需要 Python 环境的 Windows x64 用户，可从 [POICollector V2.0 发布页](https://github.com/xuworker98/POICollector/releases/tag/v2.0.0) 下载 EXE 程序。
+
+- 适用系统：Windows 10/11 x64
+- 文件大小：54.38 MB
+- SHA-256：`43478F41DD0D396D35758E82D34E14DC91F16D5BF5C522DEA602414662E69CB4`
+- 签名说明：当前 EXE 未进行代码签名，Windows 可能显示“未知发布者”，请从本项目官方 Release 页面下载并核对 SHA-256。
 
 ### 运行环境 / Requirements
 
