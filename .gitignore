@@ -1,0 +1,37 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# 本机配置和密钥
+config.yaml
+secrets.json
+config/secrets.json
+keys.dpapi
+*.key
+*.pem
+
+# 在线更新缓存
+data/boundaries/
+
+# 输出与断点
+output/
+temp/
+process_test/
+refs/
+docs/
+*.xlsx
+*.xls
+*.sqlite
+*.sqlite3
+*.db
+*.log
+*.md.bak
+
+# 构建产物
+build/
+dist/

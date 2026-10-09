@@ -1,0 +1,9 @@
+[project]
+name = "poi-collector"
+version = "2.0.0"
+requires-python = ">=3.10"
+description = "Desktop POI and administrative-division collection and validation tool"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
